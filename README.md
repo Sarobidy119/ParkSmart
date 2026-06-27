@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ParkSmart (Flutter)
 
 Smart parking management with reservation system for Antananarivo, Madagascar.
@@ -57,3 +58,9 @@ flutter build apk --release --no-tree-shake-icons ^
 - For a Play Store release, replace the debug release signing in
   `android/app/build.gradle.kts` with a real upload keystore.
 
+=======
+# Add a documentation to README.md
+
+# ParkSmart
+Gestion de parking intelligent avec réservation de place
+>>>>>>> 9fe19b64dd8a5a84ca336a7a69a60f50a2dbdb40
